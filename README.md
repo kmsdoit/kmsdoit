@@ -1,4 +1,4 @@
-&nbsp;&nbsp;![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=kmsdoit%20render&fontSize=90)
+&nbsp;&nbsp;![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=250&section=header&text=kmsdoit%20render&fontSize=90)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
