@@ -1,7 +1,8 @@
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=kmsdoit%20github&fontSize=90) 
 
 <div align=center>
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=kmsdoit%20github&fontSize=90) 
+
 <h1>📚 STACKS</h1></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
